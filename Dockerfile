@@ -19,8 +19,8 @@ RUN git clone https://github.com/NickolasHKraus/black-and-light-2.git themes/bla
 
 COPY config.toml .
 
-COPY content .
+COPY content content
 
 EXPOSE 1313
 
-ENTRYPOINT hugo serve --bind 0.0.0.0
+ENTRYPOINT hugo serve --appendPort=false --bind 0.0.0.0

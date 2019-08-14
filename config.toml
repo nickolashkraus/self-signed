@@ -1,4 +1,4 @@
-baseURL = "https://localhost:1313"
+baseURL = "https://localhost"
 languageCode = "en-us"
 title = "Self-Signed"
 author = "Nickolas Kraus"
