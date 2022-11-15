@@ -212,7 +212,7 @@ sudo security add-trusted-cert \
 
 ## Addendum
 
-I created a GitHub repository, [Self-Signed](https://github.com/NickolasHKraus/self-signed), which provides a working example of how to create a self-signed certificate for NGINX.
+I created a GitHub repository, [Self-Signed](https://github.com/nickolashkraus/self-signed), which provides a working example of how to create a self-signed certificate for NGINX.
 
 ## Acknowledgments
 

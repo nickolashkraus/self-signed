@@ -15,7 +15,7 @@ RUN hugo new site /self-signed
 
 WORKDIR /self-signed
 
-RUN git clone https://github.com/NickolasHKraus/black-and-light-2.git themes/black-and-light-2
+RUN git clone https://github.com/nickolashkraus/black-and-light-2.git themes/black-and-light-2
 
 COPY config.toml .
 

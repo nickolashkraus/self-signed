@@ -1,8 +1,8 @@
 # Self-Signed
 
 [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/nickolashkraus/self-signed?color=blue)](https://cloud.docker.com/u/nickolashkraus/repository/docker/nickolashkraus/self-signed)
-[![Releases](https://img.shields.io/github/v/release/NickolasHKraus/self-signed?color=blue)](https://github.com/NickolasHKraus/self-signed/releases)
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/NickolasHKraus/self-signed/blob/master/LICENSE)
+[![Releases](https://img.shields.io/github/v/release/nickolashkraus/self-signed?color=blue)](https://github.com/nickolashkraus/self-signed/releases)
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nickolashkraus/self-signed/blob/master/LICENSE)
 
 [Docker Hub](https://cloud.docker.com/u/nickolashkraus/repository/docker/nickolashkraus/self-signed)
 
